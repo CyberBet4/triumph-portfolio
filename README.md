@@ -2,13 +2,13 @@
 
 This is my official porfolio website project built with React
 
-### Website live link
+## Website live link
 
 ```
 wwww.something.com
 ```
 
-### Dependencies
+## Dependencies
 If you want to build something like this, here is the packages I used packages:
 
 #### React Mt Svg Lines
